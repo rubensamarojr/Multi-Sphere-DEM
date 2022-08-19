@@ -8,6 +8,8 @@ Multi-sphere Discrete Element Method particle simulation
 
 [Qiu, Liu-Chao, Yi Liu, and Yu Han. "A 3D simulation of a moving solid in viscous free-surface flows by coupling SPH and DEM." Mathematical Problems in Engineering 2017 (2017)](https://doi.org/10.1155/2017/3174904)
 
+[Liu, Chuanqi, Qicheng Sun, and Gordon GD Zhou. "Coupling of material point method and discrete element method for granular flows impacting simulations." International Journal for Numerical Methods in Engineering 115.2 (2018): 172-188](https://doi.org/10.1002/nme.5800)
+
 [Wang, Zidi, et al. "Numerical modeling of floating bodies transport for flooding analysis in nuclear reactor building." Nuclear Engineering and Design 341 (2019): 390-405](https://doi.org/10.1016/j.nucengdes.2018.11.031)
 
 [Lin, Linyu, et al. "Adequacy evaluation of smoothed particle hydrodynamics methods for simulating the external-flooding scenario." Nuclear Engineering and Design 365 (2020)](https://doi.org/10.1016/j.nucengdes.2020.110720)
